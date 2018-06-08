@@ -302,8 +302,7 @@ Pdef(\sine).play;
 	Pdef(\dust).stop;
 };
 )
-s.record;
-s.stopRecording;
+
 
 
 
